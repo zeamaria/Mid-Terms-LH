@@ -27,3 +27,13 @@ Because I want to buy the items I want.
 
 
 ## ERD
+
+ADMIN VERBS: POST, REMOVE, SEND 
+
+USER VERBS: VIEW, FILTER, FAVOURITE, SEND , BUY
+
+ADMIN NOUNS: Items, Messages, Favourites 
+
+
+
+
