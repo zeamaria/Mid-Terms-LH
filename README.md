@@ -20,9 +20,9 @@ OR
 As a user ,
 I should be able to,
 1/ see featured items on a main feed.
-3/ filter items by price.
-4/ favourite items to check up on them later.
-5/ send messages to the user that is listing the item.
+2/ filter items by price.
+3/ favourite items to check up on them later.
+4/ send messages to the user that is listing the item.
 Because I want to buy the items I want.
 
 
